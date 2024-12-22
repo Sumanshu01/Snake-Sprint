@@ -1,1 +1,2 @@
-# Snake-Sprint
+# 🍏 Snake Sprint
+Snake Sprint is a fun and addictive Python game 🐍 built with Pygame, where you control a snake to eat food 🍎 and grow longer. The goal is to avoid hitting the walls 🧱 or the snake’s own body 🐍. Each time the snake eats food, it grows, making navigation more challenging. The game ends when a collision occurs, and players can choose to replay 🔄 or quit ❌. This simple, engaging game is perfect for learning game development concepts and can be customized for added fun! 🎮
